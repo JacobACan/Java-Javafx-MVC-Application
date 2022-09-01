@@ -1,0 +1,6 @@
+Date/Time         Location          Area of Focus
+3/27/22 1:00p       Discord           Model, CLI
+3/27/22 5:00p       Discord           Tests
+4/1/22 12:30p       Class             Initial Planning of Part Two
+4/3/22 2:30p        Discord           Debugging
+4/9/22 8:00p        Discord           Backtracking

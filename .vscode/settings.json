@@ -1,0 +1,32 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\javafx-sdk-17.0.2\\lib\\javafx.base.jar",
+    "c:\\Users\\javafx-sdk-17.0.2\\lib\\javafx.controls.jar",
+    "c:\\Users\\javafx-sdk-17.0.2\\lib\\javafx.fxml.jar",
+    "c:\\Users\\javafx-sdk-17.0.2\\lib\\javafx.graphics.jar",
+    "c:\\Users\\javafx-sdk-17.0.2\\lib\\javafx.media.jar",
+    "c:\\Users\\javafx-sdk-17.0.2\\lib\\javafx.swing.jar",
+    "c:\\Users\\javafx-sdk-17.0.2\\lib\\javafx.web.jar",
+    "c:\\Users\\javafx-sdk-17.0.2\\lib\\javafx-swt.jar",
+    "/Users/caleb/Documents/Java/javafx-sdk-17.0.2/lib/javafx-swt.jar",
+    "/Users/caleb/Documents/Java/javafx-sdk-17.0.2/lib/javafx.base.jar",
+    "/Users/caleb/Documents/Java/javafx-sdk-17.0.2/lib/javafx.controls.jar",
+    "/Users/caleb/Documents/Java/javafx-sdk-17.0.2/lib/javafx.fxml.jar",
+    "/Users/caleb/Documents/Java/javafx-sdk-17.0.2/lib/javafx.graphics.jar",
+    "/Users/caleb/Documents/Java/javafx-sdk-17.0.2/lib/javafx.media.jar",
+    "/Users/caleb/Documents/Java/javafx-sdk-17.0.2/lib/javafx.swing.jar",
+    "/Users/caleb/Documents/Java/javafx-sdk-17.0.2/lib/javafx.web.jar",
+    "/Users/arichoang/SoftDev2/javafx-sdk-17.0.2/lib/**/*.jar",
+    "/Users/junit-platform-console-standalone-1.8.2.jar",
+    "/Users/caleb/Documents/Java/junit-platform-console-standalone-1.8.2.jar",
+    "d:\\Users\\Jacob\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx.base.jar",
+    "d:\\Users\\Jacob\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx.controls.jar",
+    "d:\\Users\\Jacob\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx.fxml.jar",
+    "d:\\Users\\Jacob\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx.graphics.jar",
+    "d:\\Users\\Jacob\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx.media.jar",
+    "d:\\Users\\Jacob\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx.swing.jar",
+    "d:\\Users\\Jacob\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx.web.jar",
+    "d:\\Users\\Jacob\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx-swt.jar"
+  ]
+}
